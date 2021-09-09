@@ -1,0 +1,2 @@
+Enter a Number : 
+Factorial is40320
